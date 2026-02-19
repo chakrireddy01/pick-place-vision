@@ -1,4 +1,4 @@
-# 🤖 Industrial Pick-and-Place Vision System
+#  Industrial Pick-and-Place Vision System
 
 **Real-time object detection and robotic grasp decision-making using YOLOv8 and OpenCV.**
 
